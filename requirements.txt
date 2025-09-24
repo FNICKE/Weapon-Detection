@@ -1,0 +1,9 @@
+ 
+tensorflow>=2.0
+opencv-python
+pandas
+numpy
+pillow
+lxml
+matplotlib
+pycocotools
